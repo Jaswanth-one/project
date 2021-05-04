@@ -13,6 +13,6 @@ steps:
 - task: CmdLine@2
 inputs:
 script: |
-javac Sample.java
+javac Add.java
 
-java Sample
+java Add
